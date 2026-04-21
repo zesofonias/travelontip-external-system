@@ -1,0 +1,11 @@
+http:
+  listner:
+    host: "0.0.0.0"
+    port: "9081"
+    path: "/TravelOnTipExternalSystem/{serviceType}"
+Db:
+  host: "localhost"
+  port: "3306"
+  user: "root"
+  password: "Sofonn4*qt!"
+  database: "MulesoftRealTimeProject"
